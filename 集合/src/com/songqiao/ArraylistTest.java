@@ -4,7 +4,7 @@ import java.awt.*;
 import java.util.ArrayList;
 
 import java.util.Collections;
-import java.util.List;
+
 
 public class ArraylistTest {
     public static void main(String[] args) {
@@ -15,6 +15,7 @@ public class ArraylistTest {
         list.add("c");
         list.add("b");
         list.add("d");
+        list.add("e");
 //        排序集合元素
         Collections.sort(list);
 //        获取指定集合元素
