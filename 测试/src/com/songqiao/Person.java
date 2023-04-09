@@ -6,6 +6,7 @@ public class Person {
         student.get();
     }
     public static void getp(){
-        System.out.println("Person被调用！");
+        System.out.println("Person被调用123！");
     }
+
 }

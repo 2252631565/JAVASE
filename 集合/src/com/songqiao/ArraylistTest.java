@@ -1,6 +1,6 @@
 package com.songqiao;
 
-import java.awt.*;
+
 import java.util.ArrayList;
 
 import java.util.Collections;
@@ -33,8 +33,6 @@ public class ArraylistTest {
         list.clear();
         System.out.println(list);
 
-//拉取文件测试
 
-    //ahhahaha
     }
 }
