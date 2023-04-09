@@ -9,7 +9,7 @@ import java.util.List;
 
 public class forTest {
     public static void main(String[] args) {
-        Student s1=new Student(12,"松桥");
+        Student s1=new Student(12,"松桥123");
         Student s2=new Student(13,"子旋");
         Student s3=new Student(14,"鹏鹏");
         List<Student> collection= new ArrayList<>();
