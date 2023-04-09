@@ -33,7 +33,7 @@ public class ArraylistTest {
         list.clear();
         System.out.println(list);
 
-
+//拉取文件测试
 
 
     }
